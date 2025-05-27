@@ -67,20 +67,6 @@ This Windows Forms application functions as a client to a RESTful API.
 * **Data Grids:** Display lists of Books, Borrowers, or Loans.
 * **Input Forms:** Separate forms or panels for adding/editing specific entities.
 
-## Screenshots
-
-*(Create an `images/` folder in your repository root (or within this project's folder) and place your screenshots there. Then link them.)*
-
-* **Main Application Window:**
-    ![Main Application Window](images/windows_form_main_window.png)
-* **Adding a New Record (e.g., Book Form):**
-    ![Add New Record Form](images/windows_form_add_record.png)
-* **Editing a Record:**
-    ![Edit Record Form](images/windows_form_edit_record.png)
-* **Data Display (e.g., Books List):**
-    ![Data Display Example](images/windows_form_data_display.png)
-
-*(Add more screenshots here for all functionalities you have, similar to the React app README.)*
 
 ## Troubleshooting
 
